@@ -1,4 +1,4 @@
-# Network-Analysis
+# Network Analysis
 
 "Threshold Models on Signed Networks"
 
